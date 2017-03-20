@@ -1,0 +1,15 @@
+Aby poprawnie u¿ywaæ programu ASP_Lawler nale¿y plik do tekstu zbudowaæ w nastêpuj¹cej kolejnoœci
+[x;x;x], gdzie x oznacza kolejne p
+[t;t;t], gdzie t oznacza kolejne funckcje
+Tw|Tz, gdzie w oznacza liczbê rodzica, a z liczbê okreœlaj¹ca dziecko w drzewie
+Dla poprawnego dzia³ania algorytmu nale¿y wypisaæ wszystkie w/w relacje
+Przyk³ad opieraj¹cy siê na zadaniu z zajêæ:
+[1;2;2;2;3]
+[t;(1+t)/2;t^2;t-1;((t^2)/5)+t]
+T5|T1
+T1|T4
+T2|T4
+T2|T3
+
+* w pliku nie nale¿y pozostawiaæ pustych lini
+Plik nale¿y zapisaæ z rozszerzeniem .txt 
